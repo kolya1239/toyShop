@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+//Splide
+@import url('@splidejs/splide/dist/css/themes/splide-sea-green.min.css');
+
+//Global
+@import 'global';
+
+//Blocks
+@import './blocks/index.scss';

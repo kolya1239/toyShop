@@ -1,0 +1,61 @@
+.splide__slide {
+    width: 12.5rem;
+}
+
+.card {
+    height: 100%;
+    color: #001a34;
+    text-decoration: none;
+}
+
+.card__img-top {
+    width: 100%;
+}
+
+.toy {
+    text-decoration: none;
+    width: 22.5rem;
+    height: 17.5rem;
+}
+
+.toy__image {
+    width: 100%;
+    height: 60%;
+}
+
+.material-image{
+    max-width: 50rem;
+    max-height: 30rem;
+}
+
+.material-link{
+    text-decoration: none;
+    color: #005bff;
+}
+
+.material-link:hover{
+    color: #001122;
+}
+
+.material-name:hover{
+    color: inherit;
+}
+
+.cart-name{
+    color: #001a34;
+    opacity: 70%;
+    text-decoration: none;
+}
+
+.icons__image{
+    width: 2rem;
+    height: 2rem;
+}
+
+.container-fluid{
+    min-height: 100vh;
+}
+
+.mh-100vh{
+    min-height: 100vh;
+}
